@@ -16,9 +16,9 @@ Os usuários terão acesso ao aplicativo móvel, onde poderão:
 ### Mobile
 
 <p align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/home.png" width="200px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/home.PNG" width="200px">
 
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/points.png" width="200px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/points.PNG" width="200px">
 </p>
 
 
